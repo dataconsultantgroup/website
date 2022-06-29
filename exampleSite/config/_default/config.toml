@@ -1,5 +1,5 @@
 baseURL = "https://dataconsultantgroup.com"
-disableLanguages = []
+disableLanguages = [""]
 disqusShortname = "themefisher-template"
 googleAnalytics = ""
 hasCJKLanguage = false
